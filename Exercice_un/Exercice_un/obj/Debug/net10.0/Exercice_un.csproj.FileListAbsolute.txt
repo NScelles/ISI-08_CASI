@@ -1,0 +1,4 @@
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_un\Exercice_un\obj\Debug\net10.0\Exercice_un.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_un\Exercice_un\obj\Debug\net10.0\Exercice_un.AssemblyInfoInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_un\Exercice_un\obj\Debug\net10.0\Exercice_un.AssemblyInfo.cs
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_un\Exercice_un\obj\Debug\net10.0\Exercice_un.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\bin\Debug\net10.0\Exercice_deux.exe
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\bin\Debug\net10.0\Exercice_deux.deps.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\bin\Debug\net10.0\Exercice_deux.runtimeconfig.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\bin\Debug\net10.0\Exercice_deux.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\bin\Debug\net10.0\Exercice_deux.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.AssemblyInfoInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.AssemblyInfo.cs
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.csproj.CoreCompileInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\refint\Exercice_deux.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\Exercice_deux.genruntimeconfig.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_deux\Exercice_deux\obj\Debug\net10.0\ref\Exercice_deux.dll

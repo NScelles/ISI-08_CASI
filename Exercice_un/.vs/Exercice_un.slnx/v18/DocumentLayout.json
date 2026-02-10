@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\entities\\batiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\entities\\batiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\entities\\mur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\entities\\mur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\entities\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\entities\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\entities\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\entities\\salle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\entities\\universite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\entities\\universite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_un\\exercice_un\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB58305-A2AA-46C0-947B-46369A72D620}|Exercice_un\\Exercice_un.csproj|solutionrelative:exercice_un\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Batiment.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Batiment.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Entities\\Batiment.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Batiment.cs",
+              "RelativeToolTip": "Exercice_un\\Entities\\Batiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:46:46.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Universite.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Universite.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Entities\\Universite.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Universite.cs",
+              "RelativeToolTip": "Exercice_un\\Entities\\Universite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:27:48.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mur.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Mur.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Entities\\Mur.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Mur.cs",
+              "RelativeToolTip": "Exercice_un\\Entities\\Mur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:51:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Salle.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Salle.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Entities\\Salle.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Salle.cs",
+              "RelativeToolTip": "Exercice_un\\Entities\\Salle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:49:45.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Personne.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Entities\\Personne.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Entities\\Personne.cs",
+              "RelativeToolTip": "Exercice_un\\Entities\\Personne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:51:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice_un\\Program.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_un\\Exercice_un\\Program.cs",
+              "RelativeToolTip": "Exercice_un\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:37:54.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
