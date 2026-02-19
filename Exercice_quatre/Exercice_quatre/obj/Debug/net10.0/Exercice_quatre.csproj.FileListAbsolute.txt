@@ -1,0 +1,15 @@
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\bin\Debug\net10.0\Exercice_quatre.exe
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\bin\Debug\net10.0\Exercice_quatre.deps.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\bin\Debug\net10.0\Exercice_quatre.runtimeconfig.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\bin\Debug\net10.0\Exercice_quatre.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\bin\Debug\net10.0\Exercice_quatre.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.AssemblyInfoInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.AssemblyInfo.cs
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.csproj.CoreCompileInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.sourcelink.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\refint\Exercice_quatre.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\Exercice_quatre.genruntimeconfig.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_quatre\Exercice_quatre\obj\Debug\net10.0\ref\Exercice_quatre.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\expbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\expbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\operateur\\expou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\operateur\\expou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\operateur\\expnon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\operateur\\expnon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\operateur\\expet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\operateur\\expet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\operateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\operateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\constante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\constante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_quatre\\exercice_quatre\\expboolcomposite\\entity\\contexte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4417BF-B7D2-4BEB-BD21-0CDFB0DC540D}|Exercice_quatre\\Exercice_quatre.csproj|solutionrelative:exercice_quatre\\expboolcomposite\\entity\\contexte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpNon.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpNon.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpNon.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpNon.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpNon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:49:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpOu.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpOu.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpOu.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpOu.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpOu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:49:03.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constante.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Constante.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Constante.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Constante.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Constante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:47:01.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expbool.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\Expbool.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\Expbool.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\Expbool.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\Expbool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:36:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\Program.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\Program.cs",
+              "RelativeToolTip": "Exercice_quatre\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:19:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Operateur.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:40:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpEt.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpEt.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpEt.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpEt.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Operateur\\ExpEt.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:48:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contexte.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Contexte.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Contexte.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Contexte.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Contexte.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:55:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Variable.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Variable.cs",
+              "RelativeDocumentMoniker": "Exercice_quatre\\ExpboolComposite\\entity\\Variable.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_quatre\\Exercice_quatre\\ExpboolComposite\\entity\\Variable.cs",
+              "RelativeToolTip": "Exercice_quatre\\ExpboolComposite\\entity\\Variable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:43:03.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

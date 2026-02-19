@@ -1,0 +1,15 @@
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\bin\Debug\net10.0\Exercice_cinq.exe
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\bin\Debug\net10.0\Exercice_cinq.deps.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\bin\Debug\net10.0\Exercice_cinq.runtimeconfig.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\bin\Debug\net10.0\Exercice_cinq.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\bin\Debug\net10.0\Exercice_cinq.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.AssemblyInfoInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.AssemblyInfo.cs
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.csproj.CoreCompileInputs.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.sourcelink.json
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\refint\Exercice_cinq.dll
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.pdb
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\Exercice_cinq.genruntimeconfig.cache
+C:\Users\scell\M1_MIAGE\ISI-08_CASI\Exercice_cinq\Exercice_cinq\obj\Debug\net10.0\ref\Exercice_cinq.dll

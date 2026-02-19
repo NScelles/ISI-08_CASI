@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\entity\\coupeglaceeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\entity\\coupeglaceeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\decoration\\coulisfraisedecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\decoration\\coulisfraisedecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\decoration\\supplementdecorateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\decoration\\supplementdecorateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\decoration\\chantillydecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\decoration\\chantillydecoration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\entity\\coupeglacee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\entity\\coupeglacee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\entity\\fruitsrouges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\entity\\fruitsrouges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\entity\\parfum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\entity\\parfum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\entity\\triplechocolat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\entity\\triplechocolat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|c:\\users\\scell\\m1_miage\\isi-08_casi\\exercice_cinq\\exercice_cinq\\decoration\\saucechocolat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B003391F-7441-5774-C4CD-A47F5E546F52}|Exercice_cinq\\Exercice_cinq.csproj|solutionrelative:exercice_cinq\\decoration\\saucechocolat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\Program.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Program.cs",
+              "RelativeToolTip": "Exercice_cinq\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:12:03.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoulisFraiseDecoration.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\CoulisFraiseDecoration.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\Decoration\\CoulisFraiseDecoration.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\CoulisFraiseDecoration.cs",
+              "RelativeToolTip": "Exercice_cinq\\Decoration\\CoulisFraiseDecoration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:36:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoupeGlaceeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\CoupeGlaceeInterface.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\entity\\CoupeGlaceeInterface.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\CoupeGlaceeInterface.cs",
+              "RelativeToolTip": "Exercice_cinq\\entity\\CoupeGlaceeInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:17:44.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoupeGlacee.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\CoupeGlacee.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\entity\\CoupeGlacee.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\CoupeGlacee.cs",
+              "RelativeToolTip": "Exercice_cinq\\entity\\CoupeGlacee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:32:52.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FruitsRouges.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\FruitsRouges.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\entity\\FruitsRouges.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\FruitsRouges.cs",
+              "RelativeToolTip": "Exercice_cinq\\entity\\FruitsRouges.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:39:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parfum.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\Parfum.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\entity\\Parfum.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\Parfum.cs",
+              "RelativeToolTip": "Exercice_cinq\\entity\\Parfum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:10:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplementDecorateur.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\SupplementDecorateur.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\Decoration\\SupplementDecorateur.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\SupplementDecorateur.cs",
+              "RelativeToolTip": "Exercice_cinq\\Decoration\\SupplementDecorateur.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:05:14.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChantillyDecoration.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\ChantillyDecoration.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\Decoration\\ChantillyDecoration.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\ChantillyDecoration.cs",
+              "RelativeToolTip": "Exercice_cinq\\Decoration\\ChantillyDecoration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:02:10.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripleChocolat.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\TripleChocolat.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\entity\\TripleChocolat.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\entity\\TripleChocolat.cs",
+              "RelativeToolTip": "Exercice_cinq\\entity\\TripleChocolat.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:41:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SauceChocolat.cs",
+              "DocumentMoniker": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\SauceChocolat.cs",
+              "RelativeDocumentMoniker": "Exercice_cinq\\Decoration\\SauceChocolat.cs",
+              "ToolTip": "C:\\Users\\scell\\M1_MIAGE\\ISI-08_CASI\\Exercice_cinq\\Exercice_cinq\\Decoration\\SauceChocolat.cs",
+              "RelativeToolTip": "Exercice_cinq\\Decoration\\SauceChocolat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:37:12.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
